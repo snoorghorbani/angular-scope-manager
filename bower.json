@@ -1,0 +1,22 @@
+{
+  "name": "angular-scopeManager",
+  "version": "0.0.0",
+  "homepage": "https://github.com/snoorghorbani/angular-scopeManager",
+  "authors": [
+    "snoorghorbani <snoorghorbani@gmail.com>"
+  ],
+  "description": "angular scope manager",
+  "main": "dist/angular-scopeManager",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
