@@ -1,5 +1,5 @@
 ﻿angular
-	.module("scopeManager", [])
+	.module("scopeManager", ["sutility"])
 		.service('scopeManager', ['$rootScope', '$injector', '$state', '_', function ($rootScope, $injector, $state, _) {
 		    var CS_DB_COMMAND_PREFIX = 'cs.db.';
 
